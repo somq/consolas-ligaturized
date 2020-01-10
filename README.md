@@ -26,7 +26,7 @@ For detailed installation instructions, read this [StackOverflow post](https://s
 
 ## Credits & tooling
 
-This font was generated using https://github.com/Rfvgyhn/docker-ligaturizer and under the hood [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer).  
+This font was generated using [docker-ligaturizer](https://github.com/Rfvgyhn/docker-ligaturizer) and under the hood [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer).  
 Ligatures added to this font comes from [FiraCode v1.206](https://github.com/tonsky/FiraCode/releases/tag/1.206).
 
 ## License
