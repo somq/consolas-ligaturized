@@ -38,6 +38,10 @@ For detailed installation instructions on OS and most common IDEs, read [FiraCod
 
 For detailed installation instructions, read this [StackOverflow post](https://stackoverflow.com/a/57750454) (Bear in mind to use the "v2").
 
+## Build
+
+Build process can be found [here](./_build/README.md)
+
 ## Credits & tooling
 
 | Tool        | Repo                                                                |
