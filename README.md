@@ -4,9 +4,19 @@
 
 ## Preview
 
-> Ligatures are the one present in FiraCode.
+### FiraCode ligatures
 
 ![FiraCode ligatures](https://user-images.githubusercontent.com/285292/64554512-3e6bcd80-d344-11e9-83f7-265854b88646.png)
+
+### v1.206 vs v2
+
+> FiraCode v1.206
+
+![https://i.imgur.com/PTFKkB1.png?1](https://i.imgur.com/b6EvIb0.png?1)
+
+> FiraCode v2
+
+![https://i.imgur.com/PTFKkB1.png?1](https://i.imgur.com/PTFKkB1.png?1)
 
 ## Releases
 
