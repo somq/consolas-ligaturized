@@ -33,8 +33,9 @@ For detailed installation instructions on OS and most common IDEs, read [FiraCod
 
 ### VSCode install
 
-1) `Ctrl+Shift+P` -> `Settings`
-2) Paste 'Consolas ligaturized v2' in the input
+1. `Ctrl+Shift+P` -> `Settings`
+2. Paste 'Consolas ligaturized v2' in the input
+3. Enable ligatures in your `settings.json` with this: `"editor.fontLigatures": true`
 
 For detailed installation instructions, read this [StackOverflow post](https://stackoverflow.com/a/57750454) (Bear in mind to use the "v2").
 
@@ -44,11 +45,11 @@ Build process can be found [here](./_build/README.md)
 
 ## Credits & tooling
 
-| Tool        | Repo                                                                |
-| ----------- | ------------------------------------------------------------------- |
-| ~~Docker~~      | DEPRECATED |
-| Ligaturizer | [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer)             |
-| Ligatures   | [FiraCode](https://github.com/tonsky/FiraCode/)                     |
+| Tool        | Repo                                                    |
+| ----------- | ------------------------------------------------------- |
+| ~~Docker~~  | DEPRECATED                                              |
+| Ligaturizer | [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) |
+| Ligatures   | [FiraCode](https://github.com/tonsky/FiraCode/)         |
 
 ## License
 
