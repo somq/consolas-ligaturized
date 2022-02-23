@@ -35,6 +35,7 @@ For detailed installation instructions on OS and most common IDEs, read [FiraCod
 
 1. `Ctrl+Shift+P` -> `Settings`
 2. Paste 'Consolas ligaturized v2' in the input
+3. Enable ligatures in your `settings.json` with this: `"editor.fontLigatures": true`
 
 For detailed installation instructions, read this [StackOverflow post](https://stackoverflow.com/a/57750454) (Bear in mind to use the "v2").
 
