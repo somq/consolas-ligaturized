@@ -47,7 +47,6 @@ Build process can be found [here](./_build/README.md)
 
 | Tool        | Repo                                                    |
 | ----------- | ------------------------------------------------------- |
-| ~~Docker~~  | DEPRECATED                                              |
 | Ligaturizer | [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) |
 | Ligatures   | [FiraCode](https://github.com/tonsky/FiraCode/)         |
 
