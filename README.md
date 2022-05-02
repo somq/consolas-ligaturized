@@ -1,22 +1,12 @@
 # Consolas ligaturized font
 
-> Standard Consolas font with [FiraCode v2](https://github.com/tonsky/FiraCode) ligatures.
+> Standard Consolas font with [FiraCode v3.1](https://github.com/tonsky/FiraCode/tree/3.1) ligatures.
 
 ## Preview
 
 ### FiraCode ligatures
 
-![FiraCode ligatures](https://user-images.githubusercontent.com/285292/64554512-3e6bcd80-d344-11e9-83f7-265854b88646.png)
-
-### v1.206 vs v2
-
-> FiraCode v1.206
-
-![https://i.imgur.com/PTFKkB1.png?1](https://i.imgur.com/b6EvIb0.png?1)
-
-> FiraCode v2
-
-![https://i.imgur.com/PTFKkB1.png?1](https://i.imgur.com/PTFKkB1.png?1)
+![FiraCode ligatures](https://raw.githubusercontent.com/tonsky/FiraCode/e9943d2d631a4558613d7a77c58ed1d3cb790992/showcases/v3/all_ligatures.png)
 
 ## Releases
 
@@ -37,7 +27,7 @@ For detailed installation instructions on OS and most common IDEs, read [FiraCod
 2. Paste 'Consolas ligaturized v3.1' in the input
 3. Enable ligatures in your `settings.json` with this: `"editor.fontLigatures": true`
 
-For detailed installation instructions, read this [StackOverflow post](https://stackoverflow.com/a/57750454) (Bear in mind to use the "v2").
+For detailed installation instructions, read this [StackOverflow post](https://stackoverflow.com/a/57750454) (Bear in mind to use the "v3.1").
 
 ## Build
 
