@@ -7,7 +7,7 @@ Log output
 ```sh
 fontforge -lang py -script ligaturize.py "fonts/consolas-font-original/consola.ttf" \
     --output-dir="$CWD/fonts/output/" \
-    --output-name='Consolas ligaturized v2'
+    --output-name='Consolas ligaturized v3.1'
 
 # ...saving to '/fonts/output/LigaConsolas.ttf' (Liga Consolas)
 # Save Failed
@@ -33,11 +33,16 @@ cp -r _build/consolas-font-original _build/Ligaturizer/fonts
 
 
 ## Edit build.py
+```py
+# ...
 prefixed_fonts = [
+# ...
 ]
 renamed_fonts = {
-  'fonts/consolas-font-original/*.ttf': 'Consolas ligaturized v2'
+  'fonts/consolas-font-original/*.ttf': 'Consolas ligaturized v3.1' # Consolas
 }
+# ...
+```
 
 ## Run the build
 cd _build/Ligaturizer && make
