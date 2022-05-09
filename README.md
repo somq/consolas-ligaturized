@@ -19,15 +19,15 @@ Install this font like any other font. Most likely by double clicking on it.
 
 For detailed installation instructions on OS and most common IDEs, read [FiraCode wiki](https://github.com/tonsky/FiraCode/wiki)
 
-> Note: Font name is `Consolas ligaturized v3.1`
+> Note: Font name is `Consolas ligaturized v3`
 
 ### VSCode install
 
 1. `Ctrl+Shift+P` -> `Settings`
-2. Paste 'Consolas ligaturized v3.1' in the input
+2. Paste 'Consolas ligaturized v3' in the input
 3. Enable ligatures in your `settings.json` with this: `"editor.fontLigatures": true`
 
-For detailed installation instructions, read this [StackOverflow post](https://stackoverflow.com/a/57750454) (Bear in mind to use the "v3.1").
+For detailed installation instructions, read this [StackOverflow post](https://stackoverflow.com/a/57750454) (Bear in mind to use the "v3").
 
 ## Build
 
